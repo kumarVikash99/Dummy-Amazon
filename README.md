@@ -32,12 +32,19 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and medium deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Project Features
 - **Product Listing**: Displays a list of products with their details.
+- **Search Functionality**: Allows users to search for products.
 - **Shopping Cart**: Users can add products to the cart and view their selections.
 - **Checkout Process**: Simulates a basic checkout process.
 - **Stripe Payment Processing**: Handles secure payments using the Stripe API.
+- **Firebase Authentication**: Enables user sign-in and sign-up using Firebase Authentication.
 - **Order Tracking**: Uses Firebase Cloud Functions to track ordered items and their IDs.
 
 ## Installation
@@ -46,4 +53,5 @@ Follow these steps to install and run the project locally:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/kumarVikash99/Dummy-Amazon.git
+
 
