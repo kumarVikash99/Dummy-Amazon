@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dummy-Amazon/static/css/main.0d9e319a.chunk.css",
+    "main.js": "/Dummy-Amazon/static/js/main.db99134a.chunk.js",
+    "main.js.map": "/Dummy-Amazon/static/js/main.db99134a.chunk.js.map",
+    "runtime-main.js": "/Dummy-Amazon/static/js/runtime-main.e14e1fa0.js",
+    "runtime-main.js.map": "/Dummy-Amazon/static/js/runtime-main.e14e1fa0.js.map",
+    "static/js/2.05826798.chunk.js": "/Dummy-Amazon/static/js/2.05826798.chunk.js",
+    "static/js/2.05826798.chunk.js.map": "/Dummy-Amazon/static/js/2.05826798.chunk.js.map",
+    "index.html": "/Dummy-Amazon/index.html",
+    "precache-manifest.6d1f29dc9757f98c5b82971c58b6c979.js": "/Dummy-Amazon/precache-manifest.6d1f29dc9757f98c5b82971c58b6c979.js",
+    "service-worker.js": "/Dummy-Amazon/service-worker.js",
+    "static/css/main.0d9e319a.chunk.css.map": "/Dummy-Amazon/static/css/main.0d9e319a.chunk.css.map",
+    "static/js/2.05826798.chunk.js.LICENSE.txt": "/Dummy-Amazon/static/js/2.05826798.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e14e1fa0.js",
+    "static/js/2.05826798.chunk.js",
+    "static/css/main.0d9e319a.chunk.css",
+    "static/js/main.db99134a.chunk.js"
+  ]
+}
