@@ -2,6 +2,10 @@
 
 ## Introduction
 Dummy-Amazon is a student project designed to clone basic functionalities of the Amazon e-commerce platform. This project aims to demonstrate the use of React for building dynamic and responsive web applications.
+I can't publish this project using Firebase because I utilize Firebase Cloud Functions, which require a premium plan for deployment.
+
+##Server Link
+[Link](https://kumarvikash99.github.io/Dummy-Amazon/)
 
 ## Bootstrapped with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -10,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-Runs the app in the development mode.<br />
+Run the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
@@ -35,7 +39,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Project Features
 - **Product Listing**: Displays a list of products with their details.
-- **Search Functionality**: Allows users to search for products.
 - **Shopping Cart**: Users can add products to the cart and view their selections.
 - **Checkout Process**: Simulates a basic checkout process.
 - **Stripe Payment Processing**: Handles secure payments using the Stripe API.
